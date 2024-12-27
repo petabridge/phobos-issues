@@ -16,6 +16,5 @@ Please file them here by either [reviewing current issues](https://github.com/pe
 ## Other Resources
 Here are some other Phobos resources that could help you:
 
-1. [All supported and planned Phobos monitoring and tracing integrations](https://phobos.petabridge.com/articles/integrations.html);
-2. [Phobos integration Docker files and setup instructions](https://github.com/petabridge/phobos-infrastructure); and
-3. [Phobos code samples](https://github.com/petabridge/phobos-samples).
+1. [Phobos 2.x Tutorials on `@Petabridge` at YouTube](https://www.youtube.com/watch?v=PoStol12GZA&list=PLsYDwCTwskWdf0U0yxjF2QT3jONk_MhYl)
+2. [`#phobos` Channel on the Akka.NET Discord](https://discord.gg/x7VNEeFPN7)
